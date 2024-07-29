@@ -1,2 +1,2 @@
 # Netflix-Clone
-Live link : https://netflix-clone-6296.netlify.app/
+Live link : https://netflix-clones.netlify.app/
